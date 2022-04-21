@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cloudhosting-react-website/static/css/main.d5c20111.css",
+    "main.js": "/cloudhosting-react-website/static/js/main.35b97e1a.js",
+    "static/js/787.e5788219.chunk.js": "/cloudhosting-react-website/static/js/787.e5788219.chunk.js",
+    "static/media/cli.png": "/cloudhosting-react-website/static/media/cli.474b02c96bca95f038c9.png",
+    "static/media/server.png": "/cloudhosting-react-website/static/media/server.30812a883d788e1bcba3.png",
+    "static/media/server2.png": "/cloudhosting-react-website/static/media/server2.e413c94cbde9057ecfb4.png",
+    "static/media/cloud.png": "/cloudhosting-react-website/static/media/cloud.5f566988227064c713c1.png",
+    "static/media/docs.png": "/cloudhosting-react-website/static/media/docs.acf58078310c86714a31.png",
+    "index.html": "/cloudhosting-react-website/index.html",
+    "main.d5c20111.css.map": "/cloudhosting-react-website/static/css/main.d5c20111.css.map",
+    "main.35b97e1a.js.map": "/cloudhosting-react-website/static/js/main.35b97e1a.js.map",
+    "787.e5788219.chunk.js.map": "/cloudhosting-react-website/static/js/787.e5788219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c20111.css",
+    "static/js/main.35b97e1a.js"
+  ]
+}
