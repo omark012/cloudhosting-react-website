@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Cloud hosting react website
+what is cloud hosting react website?
+Cloud hosting makes applications and websites accessible using cloud resources. Unlike traditional hosting, solutions are not deployed on a single server.
+it is a front-end react website 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
