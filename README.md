@@ -1,8 +1,8 @@
-# Cloud hosting react website
-[Go to Cloud hosting website]()
+> # Cloud hosting react website 
+[Go to Cloud hosting website]( https://omark012.github.io/cloudhosting-react-website/)
 ### what is cloud hosting react website?
 Cloud hosting makes applications and websites accessible using cloud resources. Unlike traditional hosting, solutions are not deployed on a single server.
-it is a front-end react website 
+it is a front-end of the cloud hosting react website. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
