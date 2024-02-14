@@ -1,7 +1,12 @@
 > # Cloud hosting react website 
-[Go to Cloud hosting website]( https://omark012.github.io/cloudhosting-react-website/)
+### Demo link : [Go to Cloud hosting website]( https://omark012.github.io/cloudhosting-react-website/)
+
+Developed a cloud hosting website UI using **React.js** with a responsive design approach. Designed a responsive navbar with toggle menu. Implemented sections like Home, Features, and Docs using **grid** and **flexbox** layouts, for touch slider functionality.Used **React Router** for easy navigation between the pages.
+
+
+
 ### what is cloud hosting react website?
-It is a front-end of the cloud hosting react website.Cloud hosting makes applications and websites accessible using cloud resources. Unlike traditional hosting, solutions are not deployed on a single server.
+Cloud hosting makes applications and websites accessible using cloud resources. Unlike traditional hosting, solutions are not deployed on a single server.
  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
